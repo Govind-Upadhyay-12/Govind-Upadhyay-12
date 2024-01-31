@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=govind-upadhyay-12&label=Profile%20views&color=0e75b6&style=flat" alt="govind-upadhyay-12" /> </p>
 
-- 🔭 I’m currently working on **MERN Stack and Android and Ios Devloper**
+- 🔭 I’m currently working on **NGINX FOR SCALING BACKEND**
 
 - 💬 Ask me about **Ask me about Node.js, React, MongoDB,GraphQl Etc.**
 
