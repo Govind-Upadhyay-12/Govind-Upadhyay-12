@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=govind-upadhyay-12&label=Profile%20views&color=0e75b6&style=flat" alt="govind-upadhyay-12" /> </p>
 
-- 🔭 I’m currently working on **"I am currently working on developing a scalable backend, emphasizing robust architecture to efficiently handle increased loads and traffic demands."**
+- 🔭 I’m currently working on **Developing a scalable backend, emphasizing robust architecture to efficiently handle increased loads and traffic demands."**
 
 - 💬 Ask me about **Ask me about Node.js, React, MongoDB,GraphQl Etc.**
 
